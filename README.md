@@ -1,5 +1,7 @@
 # MeanLearning
-This project has been designed to understand the MEAN development stack. 
+This project is an attempt to understand the MEAN(Mongo,Express, Angular and Node) Development Stack. This is really helpful for one who really want to have better hands on Passport Authentication, Ordrx test API's and persisitent sessions using mongo-connect. 
+
+
 
 Steps to Run the code.
 1. Install Mongo DB.
